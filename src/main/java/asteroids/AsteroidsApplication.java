@@ -150,12 +150,12 @@ public class AsteroidsApplication extends Application {
 		}
 	}
 
-    public static void main(String[] args) {
-		launch(args);
-    }
+  public static void main(String[] args) {
+    launch(args);
+  }
 
-    public static int partsCompleted() {
-        // State how many parts you have completed using the return value of this method
-        return 4;
-    }
+  public static int partsCompleted() {
+    // State how many parts you have completed using the return value of this method
+    return 4;
+  }
 }
